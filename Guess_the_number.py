@@ -1,4 +1,6 @@
 # Project name: "Guess the number"
+# Comment:"WHY ONLY 600 CHARACTERS?"
+# Full code:
 import time
 import random
 
@@ -32,4 +34,4 @@ while attempts > 0:
     # Decrement 
     attempts -= 1
     
-
+time.sleep(5)
